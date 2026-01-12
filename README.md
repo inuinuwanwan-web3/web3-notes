@@ -15,3 +15,7 @@ Personal notes and activity logs for my Web3 journey.
 
 ## Goal
 Build verifiable history in Web3 by continuous participation.
+## Logs
+
+- [2026-01-10] Initia: starred official repo
+- [2026-01-10] Monad: GitHub org followed (no public repos yet)
