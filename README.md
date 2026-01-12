@@ -17,5 +17,11 @@ Personal notes and activity logs for my Web3 journey.
 Build verifiable history in Web3 by continuous participation.
 ## Logs
 
-- [2026-01-10] Initia: starred official repo
-- [2026-01-10] Monad: GitHub org followed (no public repos yet)
+- [2026-01-12] Initia: starred official repo
+- [2026-01-12] Monad: GitHub org followed (no public repos yet)
+## Logs
+
+### 2026-01-10
+- Initia official repo starred
+- Monad GitHub org followed (no public repos yet)
+- Created personal web3-notes repository
